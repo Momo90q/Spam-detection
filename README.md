@@ -1,7 +1,6 @@
 # Spam-detection
 
-
-📜 Final Project Report: Iterative Spam Detection Model
+Project Report: Iterative Spam Detection Model
 1. Project Objective
    The initial goal of this project was to build a standard machine learning model to classify SMS messages as either "ham"
    (legitimate) or "spam." However, the project's focus evolved to address a more complex, real-world challenge:
